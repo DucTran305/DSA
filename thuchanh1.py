@@ -15,6 +15,6 @@ print(z)
 x = "hello"
 y = "world"
 z = x + " " + y
-def hamsoin():
-    print(z)
-hamsoin()
+def hamsoin(v):
+    print(v)
+hamsoin(z)
